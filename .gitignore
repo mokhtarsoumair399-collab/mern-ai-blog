@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+*.tsbuildinfo
+*.d.ts.map
+frontend/vite.config.js
+frontend/vite.config.d.ts
+uploads/*
+!uploads/.gitkeep
+.DS_Store
+npm-debug.log*
